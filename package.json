@@ -1,0 +1,1 @@
+{"description":"Completion Rider — a paper-trading bot for pump.fun bonding curves. Buys only coins whose real SOL reserve has crossed 50 SOL, rides them with a take-profit and a stop-loss, and tops the coin count up with tiny distinct-mint probe round trips.","license":"MIT","main":"main.ts","name":"pump-fun-bot-sprint","type":"module","version":"1.0.0"}
